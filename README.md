@@ -46,23 +46,6 @@
 
 ---
 
-### 📊 My GitHub Contributions Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidDUT22&theme=tokyonight" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidDUT22&show_icons=true&theme=tokyonight&border_radius=10&title_color=1d9e75&icon_color=1d9e75&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDUT22&layout=compact&theme=tokyonight&border_radius=10&title_color=1d9e75&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DavidDUT22&theme=tokyonight&border_radius=10&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75" width="55%"/>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
