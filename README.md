@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Year 2 student at **Cambodia Academy of Digital Technology (CADT)**
+- 🎓 Year 1 student at **Cambodia Academy of Digital Technology (CADT)**
 - 📚 Majoring in **Network and Telecommunication**
 - 🌱 Currently exploring **CCNA**, **C/C++**, **Python**, and **Cyber Security**
 - 🔭 Building real-world **network** and **education** projects
