@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Year 1 student at **Cambodia Academy of Digital Technology (CADT)**
+- 🎓 freshman at **Cambodia Academy of Digital Technology (CADT)**
 - 📚 Majoring in **Network and Telecommunication**
 - 🌱 Currently exploring **CCNA**, **C/C++**, **Python**, and **Cyber Security**
 - 🔭 Building real-world **network** and **education** projects
@@ -21,9 +21,9 @@
 
 ---
 
-### 🛠️ When I code & work, I rely on
+### 🛠️ When I code & work, I rely on 
 
-**Languages**
+**Basic Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
