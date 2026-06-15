@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidDUT22&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6" />
-</p>
-
----
-
 ### 📈 Activity Graph
 
 <p align="center">
