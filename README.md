@@ -46,14 +46,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidDUT22&theme=tokyo-night&color=1d9e75&line=1d9e75&point=ffffff&area=true&hide_border=false" width="100%"/>
-</p>
-
----
-
 ### 🎯 My Goals
 
 ```text
