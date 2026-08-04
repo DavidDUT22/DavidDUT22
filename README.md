@@ -63,7 +63,7 @@
 
 | 📧 Email | 📱 Phone | 💼 LinkedIn | 🌐 Portfolio |
 |----------|----------|-------------|--------------|
-| [DutDavid20nov@gmail.com](mailto:DutDavid20nov@gmail.com) | +855 087 357 520 | [linkedin.com/in/dutdavid](https://www.linkedin.com/in/dutdavid/) | [daviddut22.github.io/portfolioz](https://daviddut22.github.io/portfolioz/) |
+| [DutDavid20nov@gmail.com](mailto:DutDavid20nov@gmail.com) | +855 087 357 520 | [linkedin.com/in/dutdavid](https://www.linkedin.com/in/dutdavid/) | [daviddut22.github.io/portfolioz](https://daviddut22.github.io/portfolio2026/) |
 
 ---
 
