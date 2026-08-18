@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 freshman at **Cambodia Academy of Digital Technology (CADT)**
+- 🎓 2nd year at **Cambodia Academy of Digital Technology (CADT)**
 - 📚 Majoring in **Network and Telecommunication**
 - 🌱 Currently exploring **CCNA**, **C/C++**, **Python**, and **Cyber Security**
 - 🔭 Building real-world **network** and **education** projects
@@ -63,7 +63,7 @@
 
 | 📧 Email | 📱 Phone | 💼 LinkedIn | 🌐 Portfolio |
 |----------|----------|-------------|--------------|
-| [DutDavid20nov@gmail.com](mailto:DutDavid20nov@gmail.com) | +855 087 357 520 | [linkedin.com/in/dutdavid](https://www.linkedin.com/in/dutdavid/) | [daviddut22.github.io/portfolioz](https://daviddut22.github.io/portfolio2026/) |
+| [DutDavid20nov@gmail.com](mailto:DutDavid20nov@gmail.com) | +855 087 357 520 | [linkedin.com/in/dutdavid](https://www.linkedin.com/in/dutdavid/) | [daviddut22.github.io](https://daviddut22.github.io) |
 
 ---
 
